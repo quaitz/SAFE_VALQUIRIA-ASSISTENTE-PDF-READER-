@@ -7,3 +7,6 @@ allow user to search and download PDF files stored in Google Drive from folder a
 ***
 não funcionou porque: openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
 don t work by: openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
+
+Comente (Forum): https://raddle.me/f/freesoftware/154164/github-quaitz-safe_valquiria-assistente-pdf-reader-este
+Comment (Forum): https://raddle.me/f/freesoftware/154164/github-quaitz-safe_valquiria-assistente-pdf-reader-este
